@@ -51,7 +51,7 @@ python KeyLogger.py
 ```
 
 2. When the application starts:
-   - You'll be presented with a consent form please fill it
+   - You'll be presented with a consent form
    - Fill in your name and purpose of usage
    - Accept the terms to proceed
 
@@ -149,7 +149,7 @@ This keylogger should only be used for legitimate purposes such as:
 
 ## License
 
-[Choose an appropriate license and include it here]
+MIT License
 
 ## Disclaimer
 
