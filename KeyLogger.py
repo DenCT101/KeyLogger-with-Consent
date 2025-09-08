@@ -232,7 +232,7 @@ class KeyLoggerGUI:
     def setup_gui(self):
         # Create main window
         self.root = tk.Tk()
-        self.root.title("Professional Key Logger")
+        self.root.title("Key Logger")
         self.root.geometry("800x600")
         
         # Center the main window
