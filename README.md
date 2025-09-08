@@ -51,7 +51,7 @@ python KeyLogger.py
 ```
 
 2. When the application starts:
-   - You'll be presented with a consent form
+   - You'll be presented with a consent form please fill it
    - Fill in your name and purpose of usage
    - Accept the terms to proceed
 
