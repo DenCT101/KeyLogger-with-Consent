@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Application specific
+keylog.txt
+keystats.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db
